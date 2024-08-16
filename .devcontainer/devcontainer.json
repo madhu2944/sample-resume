@@ -1,0 +1,16 @@
+// See https://containers.dev/implementors/json_reference/ for configuration reference
+{
+	"name": "my configu",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+"remoteUser": "devcontainer",
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"mhutchie.git-graph",
+			"phil294.git-log--graph"
+		]
+	}
+}
+}
