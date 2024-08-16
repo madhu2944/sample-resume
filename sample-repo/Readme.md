@@ -44,7 +44,7 @@ eg. UBUNTU
 ```sh
 sudo apt update
 sudo apt install gh
-new one
+new two 
 ```
 
 
