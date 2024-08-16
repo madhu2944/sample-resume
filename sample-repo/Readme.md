@@ -24,12 +24,30 @@ cd tmp/
 ```
 
 ### HTTPS
-### SSH
-### GitHub CLI
 
 ```sh
 git clone https://github.com/madhu2944/sample-resume.git 
 ```
+
+### SSH
+you can also clone using SSH 
+
+``` sh 
+git clone"SSH link"
+```
+
+### GitHub CLI
+To use github CLI first install it 
+
+eg. UBUNTU
+
+```sh
+sudo apt update
+sudo apt install gh
+new one
+```
+
+
 
 
 
